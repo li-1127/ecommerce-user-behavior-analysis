@@ -62,3 +62,15 @@ E-commerce-User-Behavior-Analysis/
 ├── README.md                 # Project documentation
 ├── ecommerce_data.csv        # Raw dataset
 └── ecommerce_analysis.ipynb  # Analysis code
+
+## 🚀 How to Run
+
+To run this project locally, ensure you have Python installed, then execute the following commands in your terminal:
+
+```bash
+# 1. Install required libraries
+pip install pandas matplotlib jupyter
+
+# 2. Launch the Jupyter Notebook
+jupyter notebook ecommerce_analysis.ipynb
+
